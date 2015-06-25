@@ -51,7 +51,6 @@ module.exports = (robot) ->
       msg.send "#{url}"
 
   robot.hear /call batman!/i, (msg) ->
-    msg.reply 'bat signal test'
     batsignal = "bat signal"
     imageMe msg, batsignal, (url) ->
       msg.send "#{url}"
