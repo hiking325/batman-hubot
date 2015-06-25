@@ -2,7 +2,7 @@
 
 The installation of this hubot includes having fun with Batman.
 
-Commaonds include-
+Commands include-
   - hubot I'm Batman!
   - hubot Who is Batman?
   - hubot Call Batman!
