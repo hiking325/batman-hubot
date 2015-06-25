@@ -3,7 +3,7 @@
 The installation of this hubot includes having fun with Batman.
 
 Commands include-
-  - hubot I'm Batman!
+  - hubot I'm Batman
   - hubot Who is Batman?
   - hubot Call Batman!
 
