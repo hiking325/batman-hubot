@@ -32,7 +32,7 @@ batman_deny = [
   "Well I feel bad for Gotham city...",
   "Good because I can't take another Ben Affleck movie.",
   "So you want a cookie or something?",
-  "Don't expect me to get the bat mobile or something... Get it your damn self.",
+  "Don't expect me to get the Batmobile or something... Get it your damn self.",
   "Holy haberdashery, Batman!",
   "Holy priceless collection of Etruscan snoods!",
   "Holy heart failure, Batman!"
