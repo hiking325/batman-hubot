@@ -11,7 +11,8 @@
 #   hubot batman
 #
 # Author:
-#   hiking325
+#   hiking325 
+#   Twitter - @GlenRuck
 
 
 batman_deny = [
