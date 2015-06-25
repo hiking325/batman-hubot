@@ -1,5 +1,14 @@
 # Hubot
 
+The installation of this hubot includes having fun with Batman.
+
+Commaonds include-
+  - hubot I'm Batman!
+  - hubot Who is Batman?
+  - hubot Call Batman!
+
+Just sit back and see what Hubot comes back with.
+
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
