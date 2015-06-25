@@ -1,4 +1,4 @@
-# Hubot
+# Batman Hubot
 
 The installation of this hubot includes having fun with Batman.
 
