@@ -16,3 +16,5 @@ different chat services](https://hubot.github.com/docs/adapters/).
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+Feel free to follow me on Twitter https://twitter.com/glenruck
