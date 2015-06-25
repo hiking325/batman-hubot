@@ -9,6 +9,11 @@ Commaonds include-
 
 Just sit back and see what Hubot comes back with.
 
+Feel free to follow me on Twitter https://twitter.com/glenruck
+
+
+
+
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
@@ -17,4 +22,3 @@ different chat services](https://hubot.github.com/docs/adapters/).
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
-Feel free to follow me on Twitter https://twitter.com/glenruck
